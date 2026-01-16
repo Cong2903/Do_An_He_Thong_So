@@ -2,7 +2,7 @@
 int check(int n)
 {
     int x = 0, m = n, s = 0, ok = 0;
-    while (n != 0)
+    while
     {
         int k = n % 10;
         if (k == 6)
