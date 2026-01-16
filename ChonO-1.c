@@ -1,5 +1,5 @@
 #include <stdio.h>
-int check(int n)
+int check(in
 {
     int x = 0, m = n, s = 0, ok = 0;
     while (n != 0)
